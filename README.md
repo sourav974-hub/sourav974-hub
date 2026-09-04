@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sourav Sahoo 👋
 
-<!--
-**sourav974-hub/sourav974-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student specializing in Data Analytics and Machine Learning.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL and Excel
+- Power BI and Tableau
+- Machine Learning
+- Flask, OpenCV and MediaPipe
+- Git and GitHub
+
+## 🚀 My Projects
+
+- **SwachhLens:** AI-based waste detection and severity monitoring system
+- **Indian Sign Language Translator:** Converts sign-language gestures into text
+- **Smart Building Energy Prediction:** Predicts energy consumption and detects anomalies
+- **Multi-Touch Attribution Dashboard:** Analyses the contribution of different marketing channels
+
+## 🌱 Currently Learning
+
+- Data Analytics
+- Machine Learning
+- Deep Learning
+- Data Visualization
+
+## 🎯 Career Goal
+
+I am looking for Data Analyst, Machine Learning, Business Intelligence and Python fresher opportunities.
+
+## 📫 Connect With Me
+
+- GitHub: [sourav974-hub](https://github.com/sourav974-hub)
